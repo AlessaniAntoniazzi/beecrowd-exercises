@@ -1,0 +1,15 @@
+﻿double A, B, C, triangle, circle, trapezium, square, rectangle;
+string [] vet = Console.ReadLine().Split(' ');
+A = double.Parse(vet [0]);
+B = double.Parse(vet [1]);
+C = double.Parse(vet [2]);
+triangle = A * C/2;
+circle = 3.14159 * Math.Pow(C,2);
+trapezium = 0.5 *C*(A+B);
+square = Math.Pow(B,2);
+rectangle = A * B;
+System.Console.WriteLine("TRIANGULO: "+ triangle.ToString("F3"));
+System.Console.WriteLine("CIRCULO: "+ circle.ToString("F3"));
+System.Console.WriteLine("TRAPEZIO: "+ trapezium.ToString("F3"));
+System.Console.WriteLine("QUADRADO: "+ square.ToString("F3"));
+System.Console.WriteLine("RETANGULO: "+ rectangle.ToString("F3"));
