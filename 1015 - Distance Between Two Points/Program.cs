@@ -1,0 +1,11 @@
+﻿double x1, y1, x2, y2, p1, p2, distance;
+string [] vet = Console.ReadLine().Split(' ');
+x1 = double.Parse(vet[0]);
+y1 = double.Parse (vet[1]);
+string [] vet2 = Console.ReadLine().Split(' ');
+x2 = double.Parse(vet2[0]);
+y2 = double.Parse(vet2[1]);
+p1 = x2 - x1;
+p2 = y2 - y1;
+distance = Math.Sqrt(Math.Pow(p1,2)+Math.Pow(p2,2));
+System.Console.WriteLine(distance.ToString("F4"));
