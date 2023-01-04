@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alessani/Documents/Projects/BeeCrowd/1009/1009.csproj",
-      "projectName": "1009",
-      "projectPath": "/home/alessani/Documents/Projects/BeeCrowd/1009/1009.csproj",
+      "projectUniqueName": "/home/alessani/Documents/Projects/BeeCrowd/1010/1010.csproj",
+      "projectName": "1010",
+      "projectPath": "/home/alessani/Documents/Projects/BeeCrowd/1010/1010.csproj",
       "packagesPath": "/home/alessani/.nuget/packages/",
-      "outputPath": "/home/alessani/Documents/Projects/BeeCrowd/1009/obj/",
+      "outputPath": "/home/alessani/Documents/Projects/BeeCrowd/1010/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alessani/.nuget/NuGet/NuGet.Config"
