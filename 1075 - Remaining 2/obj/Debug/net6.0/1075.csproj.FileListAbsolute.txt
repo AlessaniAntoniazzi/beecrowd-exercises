@@ -1,0 +1,15 @@
+/home/alessani/Documents/Projects/BeeCrowd/1075/bin/Debug/net6.0/1075
+/home/alessani/Documents/Projects/BeeCrowd/1075/bin/Debug/net6.0/1075.deps.json
+/home/alessani/Documents/Projects/BeeCrowd/1075/bin/Debug/net6.0/1075.runtimeconfig.json
+/home/alessani/Documents/Projects/BeeCrowd/1075/bin/Debug/net6.0/1075.dll
+/home/alessani/Documents/Projects/BeeCrowd/1075/bin/Debug/net6.0/ref/1075.dll
+/home/alessani/Documents/Projects/BeeCrowd/1075/bin/Debug/net6.0/1075.pdb
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/1075.csproj.AssemblyReference.cache
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/1075.GeneratedMSBuildEditorConfig.editorconfig
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/1075.AssemblyInfoInputs.cache
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/1075.AssemblyInfo.cs
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/1075.csproj.CoreCompileInputs.cache
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/1075.dll
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/ref/1075.dll
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/1075.pdb
+/home/alessani/Documents/Projects/BeeCrowd/1075/obj/Debug/net6.0/1075.genruntimeconfig.cache
